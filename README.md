@@ -12,7 +12,8 @@ IFAC Conference on Networked Systems 2022 July : https://necsys22.control.ee.eth
 http://freeseer.readthedocs.org
 ## Interesting links :
 1. Blog where welly explanied many new latest research : https://expectationmax.github.io/2020/ICLR-2020/
-2. 
+2. Learning material and cource wise links: https://aman.ai/read
+3. State of the results topic wise papers :https://paperswithcode.com/sota
 ## Videos
 
 ## My papers
