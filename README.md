@@ -16,7 +16,7 @@ http://freeseer.readthedocs.org
 3. State of the results topic wise papers :https://paperswithcode.com/sota
 ## Videos
 
-## My papers
+## papers to read
 
 1.Low-Frequency Stability Analysis of Inverter-Based
  Islanded Multiple-Bus AC Microgrids Based on Terminal Characteristics
