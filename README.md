@@ -20,3 +20,8 @@ http://freeseer.readthedocs.org
 
 [freeseer-logo]: http://i.imgur.com/tqivk.png
 
+## course links
+[Power system optization and control]:
+https://sites.google.com/view/eeci-autonomous-power-systems
+
+[Reinforcement Learning]:https://wensun.github.io/CS6789_fall_2021.html
