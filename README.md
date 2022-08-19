@@ -1,11 +1,13 @@
 # Free_conference_links
-
+1. Conferences
+EFC Workshop Series Recent advances in electricity price forecasting : https://www.ii.pwr.edu.pl/~rweron/Conf#talks
 ## Time series Conference :
 The Art of Learning with Missing Values: https://artemiss-workshop.github.io/
 ## General conferences :
 
 IFAC Conference on Networked Systems 2022 July : https://necsys22.control.ee.ethz.ch/home \
 [Video links]: https://vimeo.com/event/544782/80eec03abd \
+
 
 ## POWER SYSTEM Conferences:
 
@@ -35,9 +37,17 @@ https://www.frontiersin.org/articles/10.3389/fenrg.2021.651807/full
  Automatic Generation Control System
 https://ieeexplore.ieee.org/document/9350530
 
+5. Differentially Private Optimal Power Flow for Distribution Grids : https://ieeexplore.ieee.org/abstract/document/9226144
+
+6. 
 
 ## course links
 
 1.Power system optization and control:https://sites.google.com/view/eeci-autonomous-power-systems
 
 2.Reinforcement Learning:https://wensun.github.io/CS6789_fall_2021.html
+
+## Interesting links
+
+1. details about GAN, Grah neural network and many more : https://distill.pub/
+2.
